@@ -1,0 +1,3 @@
+Dies ist eine Beispieldatei in der Root des html-Ordners.
+
+Sie können diese Datei herunterladen oder neue Dateien hinzufügen.

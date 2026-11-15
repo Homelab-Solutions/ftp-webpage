@@ -1,0 +1,3 @@
+Dies ist eine Beispieldatei im files/ Unterordner.
+
+Alle Dateien, die Sie hier platzieren, werden automatisch im Browser aufgelistet.

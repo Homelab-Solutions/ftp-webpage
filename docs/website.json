@@ -1,0 +1,9 @@
+{
+  "title_de": "FTP Webpage",
+  "title_en": "FTP Webpage",
+  "summary_de": "Schlanker Datei-Manager im Browser: Dateien eines Ordners auflisten, hochladen, herunterladen und löschen.",
+  "summary_en": "Lightweight browser file manager: list, upload, download and delete the files of a folder.",
+  "description_de": "FTP Webpage zeigt die Dateien eines lokalen Ordners als übersichtliche Liste. Du kannst Dateien hochladen, Ordner anlegen, Dateien herunterladen und löschen. Das Design ist responsiv und bietet hellen, dunklen und automatischen Modus.\n\nTechnisch ist es eine kleine Express-Anwendung ohne Datenbank, die als Docker-Container läuft. Zugriffe außerhalb des Datenordners werden blockiert. Die Anwendung hat keine Anmeldung und gehört deshalb nur in ein vertrauenswürdiges Netz.",
+  "description_en": "FTP Webpage shows the files of a local folder as a clear list. You can upload files, create folders, download and delete files. The design is responsive with light, dark and automatic mode.\n\nTechnically it is a small Express application without a database that runs as a Docker container. Access outside the data folder is blocked. The application has no login and therefore belongs in a trusted network only.",
+  "tags": ["Dateien", "Node.js", "Express", "Docker"]
+}
